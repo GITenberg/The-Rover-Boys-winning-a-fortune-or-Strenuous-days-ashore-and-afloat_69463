@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
     wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+covers:
+- cover_type: archival
+  image_path: 69463-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: https://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69463#The-Rover-Boys-winning-a-fortune-or-Strenuous-days-ashore-and-afloat
 gutenberg_issued: '2022-12-03'
 identifiers:
   gutenberg: '69463'
